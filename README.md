@@ -46,8 +46,8 @@ A collection of hands-on CCNA labs completed while studying Networking.
 
 15. OSPF, EIGRP, and PPP  | Accomplished |
 
-| 16 | GRE, BGP, HSRP, and SPAN | Accomplished |
+16, GRE, BGP, HSRP, and SPAN | Accomplished |
 
-| 17 | Review Config 1-3 | Accomplished |
+17. Review Config 1-3 | Accomplished |
 
-| 18 | Review Troubleshooting 1-3 | Accomplished |
+18. Review Troubleshooting 1-3 | Accomplished |
