@@ -6,7 +6,8 @@ To logically segment a single physical network into multiple, isolated virtual n
 ---
 
 ## Topology
-<img width="598" height="383" alt="image" src="https://github.com/user-attachments/assets/56881d6e-4411-4d1e-927c-86e6f84b2dd7" />
+<img width="713" height="355" alt="image" src="https://github.com/user-attachments/assets/e4e41d0d-3c81-4483-912e-77d363b1c608" />
+
 
 ---
 
