@@ -42,7 +42,7 @@ SW1 and SW2:
 
 ## Verification
 
--On SW1 I configure VLAN with assigning PC2 to Vlan 2 and for VLAN 1 on the other hand PC1 was not needed to configure as all interfaces are already assigned in the Native VLAN which is the VLAN 1. also I onfigure Trunk.
+-On SW1 I configure VLAN with assigning PC2 to Vlan 2 and for VLAN 1 on the other hand PC1 was not needed to configure as all interfaces are already assigned in the Native VLAN which is the VLAN 1. also I configure Trunk.
 <img width="1918" height="1017" alt="image" src="https://github.com/user-attachments/assets/ee16fd55-bd27-4106-8af0-c75e0363ebbb" />
 
 -On SW2 I configure VLAN with assigning PC4 to Vlan 2 and for VLAN 1 on the other hand PC3 was not needed to configure as all interfaces are already assigned in the Native VLAN which is the VLAN 1. also I configure Trunk.
