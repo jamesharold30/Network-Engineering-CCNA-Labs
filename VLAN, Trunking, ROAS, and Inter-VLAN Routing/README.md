@@ -27,7 +27,7 @@ To logically segment a single physical network into multiple, isolated virtual n
 ## Configuration
 
 ```cisco
-R1 and R2:
+SW1 and SW2:
 
 **enable** (entering priviledge execmode)
 **config t** (entering global execmode)
@@ -35,6 +35,7 @@ R1 and R2:
 **switchport mode acc** (to make port in access mode)
 **switchport acc vlan** (to assign an interface into a VLAN)
 **switchport mode trunk** (to make trunking able)
+**ping ipaddress** (to test connectivity between PCs)
 ```
 
 ---
