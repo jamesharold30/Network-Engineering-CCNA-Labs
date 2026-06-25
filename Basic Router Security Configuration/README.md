@@ -47,11 +47,14 @@ R1 and R2:
 
 ## Verification
 
-```
 <img width="1918" height="1025" alt="image" src="https://github.com/user-attachments/assets/a52c8464-3f6b-4e51-84f8-1e4e2f494615" />
+
 <img width="1915" height="1013" alt="image" src="https://github.com/user-attachments/assets/032899a7-9303-4e5c-bb35-66d5b14296a5" />
+
 <img width="1918" height="1030" alt="image" src="https://github.com/user-attachments/assets/d2f54c00-e40d-4084-8579-ec5f64046215" />
+
 <img width="1918" height="1020" alt="image" src="https://github.com/user-attachments/assets/2245fe04-c39f-4fd6-8309-6832394768db" />
+
 <img width="946" height="412" alt="image" src="https://github.com/user-attachments/assets/a4567e27-77f8-40fb-a8d5-516d53bd68d6" />
 
 
