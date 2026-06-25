@@ -34,7 +34,7 @@ Securing devices such as Router, using some Basic Router Security config.
 ```cisco
 R1 and R2:
 
-**enable** (entering previledge execmode)
+**enable** (entering priviledge execmode)
 **config t** (entering global execmode)
 **hostname R1** (setting up device's name)
 **enable password cisco** (making it a password)
