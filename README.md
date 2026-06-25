@@ -6,12 +6,6 @@ A collection of hands-on CCNA labs completed while studying Networking.
 # Technologies
 - Cisco IOS
 - Packet Tracer
-- VLANs
-- OSPF
-- ACL
-- DHCP
-- NAT
-- Inter-VLAN Routing
 
 # Goals
 - Build practical networking skills
