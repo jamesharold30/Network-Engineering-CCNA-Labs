@@ -22,7 +22,7 @@ To enable communication between different VLANs using a single physical router i
 
 ## Requirements
 
-1. Ping between the PCs.  
+1. Ping between the PCs. (Previously done in the Problem section above)
 
 2. Assign PC1 and PC3 to VLAN 13, and PC2 and PC4 to VLAN 24.
 
