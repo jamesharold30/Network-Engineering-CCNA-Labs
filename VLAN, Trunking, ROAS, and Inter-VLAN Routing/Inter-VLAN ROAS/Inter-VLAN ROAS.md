@@ -1,6 +1,11 @@
 # Lab 06 — inter-VLAN ROAS Config 
 
 -------
+
+## Topology
+<img width="735" height="457" alt="image" src="https://github.com/user-attachments/assets/a6b7c7b0-ebba-459d-8fd3-75962959ae12" />
+
+-------
 # Problem
 
 -PC1 can sends packet to PC3(10.0.0.3) while it is not able to communicate with other PCs.
@@ -12,11 +17,6 @@
 ------
 ## Objective
 To enable communication between different VLANs using a single physical router interface and cable. To maintain logical network segmentation and security while allowing necessary inter-VLAN traffic to pass through the router for policy control.
-
----
-
-## Topology
-<img width="735" height="457" alt="image" src="https://github.com/user-attachments/assets/a6b7c7b0-ebba-459d-8fd3-75962959ae12" />
 
 ---
 
